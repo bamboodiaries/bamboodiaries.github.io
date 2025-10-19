@@ -266,7 +266,7 @@ border-radius:15px;}
 
 #menu ul{width:auto;
 float:center;
-margin-left:2%;
+margin-left:0%;
 display:block;
 opacity: 1;
 font-family:cursive;
@@ -275,7 +275,7 @@ border: 1px;}
 
 
 #menu li {display:inline-block;
-margin-left:3%;
+margin-left:2%;
 font-size:30px;
 color:green;
 text-shadow: white;
