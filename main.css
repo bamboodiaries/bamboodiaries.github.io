@@ -256,6 +256,7 @@ width:87%;
 height:200px;
 margin:10px;
 padding:15px;
+overflow:scroll;
 background-color:black;
 opacity:1;
 color:#3e2723;
