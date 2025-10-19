@@ -34,7 +34,7 @@ Bamboo Diaries
 </div>
 <br>
 
-<h2 style="text-align:left;"> Recently in the wilderness: </h1>
+<h2 style="text-align:left;"> Recently in the wilderness: </h2>
 
 <div class="postblock">
 <p style="text-align:left; color:white"> <img src="panda16.jpg" alt="panda img" class="post">
@@ -42,4 +42,3 @@ Depressed panda finds a way! </p>
 <p> After a long time the panda has found a way out of his depressing thoughts and he is filled with joy. He awaits the right time to pounce now, panda is in love with the Art now!</p>
 </div>
 
-</body>
