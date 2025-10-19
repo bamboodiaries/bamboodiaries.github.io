@@ -19,5 +19,27 @@ Bamboo Diaries
 
 <img src="diary.jpg" alt="panda image" class="bambooimgm">
 
+<hr>
+<br>
+<div id=menu>
+<ul>
+
+<li>
+<a href="#">The Wilderness|</a> </li>
+
+<li><a href="#">Dark Nights|</a> </li>
+
+<li> <a href="#">Wander Along|</a> </li>
+</ul>
+</div>
+<br>
+
+<h2 style="text-align:left;"> Recently in the wilderness: </h1>
+
+<div class="postblock">
+<p style="text-align:left; color:white"> <img src="panda16.jpg" alt="panda img" class="post">
+Depressed panda finds a way! </p>
+<p> After a long time the panda has found a way out of his depressing thoughts and he is filled with joy. He awaits the right time to pounce now, panda is in love with the Art now!</p>
+</div>
 
 </body>
