@@ -21,6 +21,7 @@ Bamboo Diaries
 
 <hr>
 <br>
+<br>
 <div id=menu>
 <ul>
 
