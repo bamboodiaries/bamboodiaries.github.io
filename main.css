@@ -15,15 +15,17 @@ float:left;
 
 .postblock{display:block;
 width:95%;
-height:400px;
+height:350px;
 margin:10px;
 padding:15px;
+overflow:;
 background-color:black;
 opacity:1;
 color:#3e2723;
 border:3px solid grey;
 border-radius:15px;}
 
+small{color:grey;}
 
 #menu ul{width:auto;
 float:center;
@@ -138,7 +140,7 @@ body {
 
 #menu ul{width:auto;
 float:center;
-margin-left:3%;
+margin-left:5%;
 display:block;
 opacity: 1;
 font-family:cursive;
