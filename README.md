@@ -15,14 +15,14 @@ Bamboo Diaries
 </head>
 <body>
 <h1> <a href="https://bamboodiaries.github.io">Bamboo Diaries</a></h1>
-<img src="images/panda3.jpg" class="pandaimgl">
+<img src="images/panda3.png" class="pandaimgl">
 
 <p class="sweet"> To not let the childhood die! </p>
 
-<img src="images/panda0.jpg" alt="panda image" class="pandaimgr">
+<img src="images/panda0.png" alt="panda image" class="pandaimgr">
 
 
-<img src="images/diary.jpg" alt="panda image" class="bambooimgm">
+<img src="images/diary.png" alt="panda image" class="bambooimgm">
 
 <hr>
 <br>
