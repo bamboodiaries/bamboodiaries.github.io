@@ -1,0 +1,27 @@
+
+.center{width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0%;
+background-attachment:fixed;
+background-size:contain;
+background-position:center center;
+    max-width: 85%;
+font-family:cursive;
+background-image: url("images/captain0.png");
+}
+
+
+
+.avengers a {color:red;}
+
+.sweet{color:red;}
+
+#menu li a{color:red;
+text-decoration:underline;
+text-decoration-color:  blue;}
+
+h1 {color:red;}
+h2{color:blue;}
+
+p{color:red;}
