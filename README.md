@@ -45,6 +45,16 @@ Bamboo Diaries
 <h2 style="text-align:left;"> Recently in the wilderness: </h2>
 
 
+
+<div class="postblock">
+<p style="text-align:left; color:white"> <img src="images/panda41.jpg" alt="panda img" class="post">
+The nostalgia of Avengers...</p>
+<small> 2025-10-21 </small>
+<p>I remember spending winter nights watching the Avengers. The pleasure these gave, the excitement these bestowed upon me. <a href="./wilderness/nostalgia-of-avengers">Read more.</a></p>
+</div>
+<br>
+
+
 <div class="postblock">
 <p style="text-align:left; color:white"> <img src="images/panda31.jpg" alt="panda img" class="post">
 Diwali and the howling Jackals! </p>
